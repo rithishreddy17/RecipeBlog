@@ -1,13 +1,11 @@
 {
-  "homepage": "https://rithishreddy17.github.io/RecipeBlog/",
   "name": "cookingblog",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon app.js",
-    "deploy" : "echo \"Deploy script for backend only\""
+    "start": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
